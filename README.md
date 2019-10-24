@@ -21,6 +21,7 @@ http://gpss.cc/gpss18/program (first lecture, also other lectures for more in de
 
 Intro blog posts and code:
 https://yugeten.github.io/posts/2019/09/GP/
+Or:
 https://katbailey.github.io/post/gaussian-processes-for-dummies/
 
 Maybe:
